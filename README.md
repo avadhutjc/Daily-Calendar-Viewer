@@ -1,4 +1,7 @@
 # Daily-Calendar-Viewer
+
+<img src="https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg" alt="Kotlin logo" width="43" height="43"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![cal1](https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg)
 
 ![cal2](https://user-images.githubusercontent.com/60433739/144744218-2a12a1a1-1ba5-40ce-87f4-ecd24b4db4f2.jpg)

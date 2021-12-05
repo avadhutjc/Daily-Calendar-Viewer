@@ -2,9 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg" alt="Kotlin logo" width="450" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg" alt="Kotlin logo" width="450" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" alt="Android SDK" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![cal1](https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg)
 

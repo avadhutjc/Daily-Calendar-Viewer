@@ -1,6 +1,6 @@
 # Daily-Calendar-Viewer
 
-<img src="https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg" alt="Kotlin logo" width="500" height="500"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg" alt="Kotlin logo" width="450" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![cal1](https://user-images.githubusercontent.com/60433739/144744215-ee92b67b-dda8-408b-8a59-defe97e0f9a2.jpg)
 

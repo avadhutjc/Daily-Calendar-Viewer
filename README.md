@@ -5,9 +5,7 @@
 <img src="https://user-images.githubusercontent.com/60433739/144744221-de3ba7e4-889d-4d37-b834-63f0024b7e7f.jpg" alt="Android SDK" width="350" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/60433739/144744222-a850362f-c203-40ff-8647-48a4189ddccb.jpg" alt="Android SDK" width="350" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://user-images.githubusercontent.com/60433739/144744224-513e7037-c9f2-41cc-808a-a42150fbd363.mp4" alt="Android SDK" width="350" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://user-images.githubusercontent.com/60433739/144744224-513e7037-c9f2-41cc-808a-a42150fbd363.mp4" alt="Android SDK" width="350" height="800"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 https://user-images.githubusercontent.com/60433739/144744224-513e7037-c9f2-41cc-808a-a42150fbd363.mp4

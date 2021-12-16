@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         calendarView = findViewById(R.id.calendarView)
 
         calendarView!!.setOnDateChangeListener { calendarView, i, i1, i2 ->
-            val msg = "Day: " + i2 + " Month : " + (i1 + 1) + " Year " + i
+            val msg = "Date: " + i2 + " Month : " + (i1 + 1) + " Year " + i
             // Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_SHORT).show()
 
             val toast = Toast.makeText(
